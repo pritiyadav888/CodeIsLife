@@ -33,5 +33,14 @@ h6 {
   color:bisque;
   margin:auto;
 }
+.mission{
+    position:static;
+    width: 100%;
+    left: 10px;
+   
+    color: aqua;
+}
 
-
+h5{
+    color:rgb(69, 151, 151);
+}
